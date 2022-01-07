@@ -1,0 +1,58 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.container {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.menu {
+    margin: 10px;
+    padding: 5px;
+    background: rgb(86, 128, 206);
+    color: black;
+    font-size: 26px;
+    text-decoration: none;
+    border: 2px solid rgb(124, 109, 48);
+    
+}
+.main-page {
+    font-size: 20px;
+}
+ol {
+    list-style-position: inside;
+}
+ul {
+    list-style-position: inside;
+}
+h1 {
+    color: crimson;
+}
+h2 {
+    color: blueviolet;
+}
+h3 {
+    color: rgb(204, 165, 36);
+}
+.img {
+    width: 300px;
+}
+
+.item {
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.btn {
+    color: #fff;
+    background-color: #ff6000;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
